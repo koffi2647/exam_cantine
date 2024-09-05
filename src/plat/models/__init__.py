@@ -1,0 +1,1 @@
+from .plat_model import Plat
